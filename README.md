@@ -1,4 +1,5 @@
-DON'T PRINT THIS!!! I doing it for the first time the code is not one of the best
+DON'T PRINT THIS, I'M MAKING THE NEXT VERSION THE CURRENT ONE HAS A FEW BUGS!!! 
+I doing it for the first time the code is not one of the best
 
 PARTS:
 Micro servo sg90 
